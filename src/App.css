@@ -1,0 +1,12 @@
+#sub{
+    background: linear-gradient(270deg,#ffcc75 44.93%,#ffe490);
+}
+#side div{
+    margin-bottom: 40px;
+}
+#backside{
+ 
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
